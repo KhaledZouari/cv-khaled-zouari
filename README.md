@@ -8,7 +8,7 @@ France.
 
 ## CV au format PDF
 
-La version PDF finale sera ajoutée dans une prochaine révision de ce dépôt.
+[Télécharger le CV de Khaled Zouari](Khaled_ZOUARI_CV.pdf)
 
 ## Contact
 
