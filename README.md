@@ -1,17 +1,17 @@
-# CV — Khaled Zouari
+# Resume — Khaled Zouari
 
-Élève ingénieur en informatique à l’ESIGELEC Rouen, spécialisé en
-développement Full Stack Java / React.
+Software Engineering student specializing in full-stack development with Java,
+Spring Boot, React, and TypeScript.
 
-Je recherche un stage à partir du 1er mars 2027 et suis mobile dans toute la
-France.
+I am seeking a software engineering internship starting on March 1, 2027, and
+I am open to opportunities throughout France.
 
-## CV au format PDF
+## Resume
 
-[Télécharger le CV de Khaled Zouari](Khaled_ZOUARI_CV.pdf)
+[Download the latest PDF resume](Khaled_ZOUARI_CV.pdf)
 
 ## Contact
 
 - [GitHub](https://github.com/KhaledZouari)
 - [LinkedIn](https://www.linkedin.com/in/khaled-zouari-434320276/)
-- [Email](mailto:zouarik8@gmail.com)
+
